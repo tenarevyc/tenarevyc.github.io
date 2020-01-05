@@ -62,7 +62,7 @@ body { background-color: #faf3ea; }
 
 .temp .intro { display: block; margin-bottom: 40px; color: #603e26; }
 
-.temp .intro a { font-weight: 700; font-style: none; color: #452813; text-decoration: none; border-bottom: 1px dotted #452813; }
+.temp .intro a { font-weight: 600; font-style: none; color: #452813; text-decoration: none; border-bottom: 1px dotted #452813; }
 
 .temp .instructions { font-family: "Playfair Display", Georgia, Sans-Serif; font-weight: 300; font-size: 24px; line-height: 28px; color: #603e26; }
 
