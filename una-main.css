@@ -74,4 +74,4 @@ body { background-color: #faf3ea; }
 
 .temp .instructions ul li { list-style-type: none; padding: 0 0 10px 0; }
 
-.temp .instructions ul li:before { content: "§"; padding-right: 20px; }
+.temp .instructions ul li:before { content: "§"; padding-right: 10px; }
