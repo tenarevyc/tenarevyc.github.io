@@ -56,7 +56,7 @@ img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: 
 
 body { background-color: #faf3ea; }
 
-.temp { width: 90%; max-width: 90%; margin: 40px auto 40px auto; font-family: "Playfair Display", Georgia, Sans-Serif; font-size: 36px; line-height: 42px; }
+.temp { width: 90%; max-width: 90%; margin: 20px auto 40px auto; font-family: "Playfair Display", Georgia, Sans-Serif; font-size: 36px; line-height: 42px; }
 
 @media (max-width: 800px) { .temp { margin: 40px auto 20px auto; font-size: 24px; line-height: 28px; } }
 
@@ -77,3 +77,19 @@ body { background-color: #faf3ea; }
 .temp .instructions ul li:before { content: "§"; padding-right: 20px; }
 
 p { margin: 0; text-indent: 4ch; }
+
+.navbar { overflow: hidden; top: 0; width: 100%; }
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #603e26;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background: #faf5f2;
+}
+
+.navbar a:hover {
+  background: #f5ebe4;
+}
