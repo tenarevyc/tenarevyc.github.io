@@ -56,7 +56,7 @@ img.aligncenter { clear: both; display: block; margin-right: auto; margin-left: 
 
 body { background-color: #faf3ea; }
 
-.temp { width: 840px; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px; line-height: 42px; }
+.temp { width: 80%; max-width: 80%; margin: 120px auto 40px auto; font-family: "Playfair Display", Georgia, Serif; font-size: 36px; line-height: 42px; }
 
 @media (max-width: 800px) { .temp { margin: 40px auto 20px auto; font-size: 24px; line-height: 28px; } }
 
