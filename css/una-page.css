@@ -78,7 +78,7 @@ body { background-color: #faf3ea; }
 
 p { margin: 0; text-indent: 4ch; }
 
-.navbar { overflow: hidden; top: 0; width: 100%; }
+.navbar { overflow: hidden; top: 0; width: 100%; font-family: "Playfair Display", Georgia, Sans-Serif;}
 
 .navbar a {
   float: left;
