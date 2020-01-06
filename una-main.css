@@ -75,3 +75,18 @@ body { background-color: #faf3ea; }
 .temp .instructions ul li { list-style-type: none; padding: 0 0 10px 0; }
 
 .temp .instructions ul li:before { content: "§"; padding-right: 10px; }
+
+.navbar { overflow: hidden; top: 0; width: 100%; }
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #a38972;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover { 
+  color: #452813;
+}
